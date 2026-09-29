@@ -1,5 +1,7 @@
 # FadeHost Welcome Bot
 
+[![Deploy to FadeHost](https://fadehost.com/deploy-button.svg)](https://laplace.fadehost.com/register?intent=bot&repo=https://github.com/FadeHost/discord-welcome-bot)
+
 Welcomes new members with a message you write, gives them a role, and says goodbye when they leave.
 
 ## Setup on FadeHost
