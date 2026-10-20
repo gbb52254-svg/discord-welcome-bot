@@ -1,7 +1,8 @@
+
 {
-  "name": "fadehost-welcome-bot",
+  "name": "cripss-family-bot",
   "version": "1.0.0",
-  "description": "Welcome and goodbye messages with an automatic role for new members. Hosted by FadeHost.",
+  "description": "CriPss Family Discord Bot",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -11,7 +12,8 @@
     "node": ">=20"
   },
   "dependencies": {
-    "discord.js": "^14.16.3"
+    "discord.js": "^14.16.3",
+    "@discordjs/voice": "^0.18.0"
   },
   "license": "MIT"
 }
